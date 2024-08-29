@@ -1,2 +1,2 @@
-# opencv_-
+# opencv_matchTemplate
 基于Qt和opencv的模板匹配使用
